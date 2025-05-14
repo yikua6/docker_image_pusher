@@ -8,3 +8,4 @@ node:alpine3.20
 python
 mysql
 httpd
+centos
