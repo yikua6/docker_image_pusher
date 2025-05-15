@@ -9,4 +9,4 @@ python
 mysql
 httpd
 centos:7
-elasticsearch:7.6.2
+elasticsearch
